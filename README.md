@@ -2,10 +2,10 @@
 
 | | |
 |---|---|
-| Nama | _isi nama_ |
-| NIM | _isi NIM_ |
-| Kelas | _isi kelas_ |
-| Mata Kuliah | UI/UX |
+| Nama | Muhammad Fauzi |
+| NIM | 0110226077 |
+| Kelas | TI 01 |
+| Mata Kuliah | Design UI UX |
 
 Repo ini berisi dua halaman web statis untuk Praktikum 5. Keduanya ditulis dengan HTML dan CSS internal (di dalam tag `<style>`), tanpa framework dan tanpa JavaScript.
 
